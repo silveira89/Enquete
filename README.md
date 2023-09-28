@@ -1,2 +1,2 @@
-# Enqute
+# Enquete
 Site usando o Django.
